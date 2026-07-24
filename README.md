@@ -1,6 +1,6 @@
 <div align="center">
-<h1>你好，我是 <span style="color:#009688">刘知行</span></h1>
-<p>新加坡 · 前端开发工程师 | Frontend Developer SG</p>
+  <h1>你好，我是 <span style="color:#009688">刘知行</span></h1>
+  <p>新加坡 · 前端开发工程师 | Frontend Developer SG</p>
 </div>
 
 ---
